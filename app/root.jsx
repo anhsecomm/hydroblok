@@ -65,7 +65,7 @@ const components = {
   'single-product': SingleProduct,
 };
 storyblokInit({
-  accessToken: 'aVPSgag6Rrp47qg0HOHIbgtt',
+  accessToken: 'FvXLoIKRaKmg6vUCX0c0QQtt',
   use: [apiPlugin],
   components,
 });
